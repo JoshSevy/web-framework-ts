@@ -1,23 +1,4 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** JoshSevy, repo_name, twitter_handle, email, project_title, project_description
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+<!-- PROJECT SHIELDS
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
@@ -43,14 +24,13 @@
     <a href="https://github.com/JoshSevy/web-framework-ts"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/JoshSevy/web-framework-ts">View Demo</a>
+    <a href="https://github.com/JoshSevy/web-framework-ts">View Demo - Coming Soon!</a>
     ·
     <a href="https://github.com/JoshSevy/web-framework-ts/issues">Report Bug</a>
     ·
     <a href="https://github.com/JoshSevy/web-framework-ts/issues">Request Feature</a>
   </p>
 </p>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -86,17 +66,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`JoshSevy`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+On the continued journey of pushing myself as a developer I decided to take a crack at building a modular web framework. As I continue to develop this project I will continue to add documentation of progress, struggles, and changes throughout the journey. Thank you for stopping by, please feel free to reach out any time.
 
 
 ### Built With
 
-* []()
-* []()
-* []()
-
+* ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript&logoColor=ffff3f)
+* [Parcel]()
+* [JSON Server]()
+* [Axios](https://img.shields.io/badge/-axios-black?style=flat-square&logo=axios&logoColor=ffff3f)
 
 
 <!-- GETTING STARTED -->
@@ -174,22 +152,21 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Joshua Sevy - [@joshsevy](https://twitter.com/joshsevy) - joshuasevy@outlook.com
 
 Project Link: [https://github.com/JoshSevy/web-framework-ts](https://github.com/JoshSevy/web-framework-ts)
 
+
+[![GitHub followers](https://img.shields.io/github/followers/JoshSevy?label=Follow&style=social)](https://github.com/JoshSevy/?tab=follow)
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -200,20 +177,17 @@ Project Link: [https://github.com/JoshSevy/web-framework-ts](https://github.com/
 * []()
 
 
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/JoshSevy/web-framework-ts/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/JoshSevy/web-framework-ts/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/JoshSevy/web-framework-ts/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/JoshSevy/web-framework-ts/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/JoshSevy/web-framework-ts/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/JoshSevy/web-framework-ts/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/JoshSevy/web-framework-ts/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/JoshSevy/web-framework-ts/repo/issues
-[license-shield]: https://img.shields.io/github/license/JoshSevy/web-framework-ts/repo.svg?style=for-the-badge
-[license-url]: https://github.com/JoshSevy/web-framework-ts/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/JoshSevy/web-framework-ts.svg?style=for-the-badge
+[contributors-url]: https://github.com/JoshSevy/web-framework-ts/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/JoshSevy/web-framework-ts.svg?style=for-the-badge
+[forks-url]: https://github.com/JoshSevy/web-framework-ts/network/members
+[stars-shield]: https://img.shields.io/github/stars/JoshSevy/web-framework-ts.svg?style=for-the-badge
+[stars-url]: https://github.com/JoshSevy/web-framework-ts/stargazers
+[issues-shield]: https://img.shields.io/github/issues/JoshSevy/web-framework-ts.svg?style=for-the-badge
+[issues-url]: https://github.com/JoshSevy/web-framework-ts/issues
+[license-shield]: https://img.shields.io/github/license/JoshSevy/web-framework-ts.svg?style=for-the-badge
+[license-url]: https://github.com/JoshSevy/web-framework-ts/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/joshua-sevy
