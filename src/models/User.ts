@@ -34,4 +34,12 @@ export class User {
       callback();
     });
   }
+
+  fetch() {
+
+  }
+
+  save() {
+
+  }
 }
