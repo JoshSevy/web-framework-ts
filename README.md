@@ -133,12 +133,10 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 
-
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/JoshSevy/web-framework-ts/issues) for a list of proposed features (and known issues).
-
 
 
 <!-- CONTRIBUTING -->
@@ -161,12 +159,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Joshua Sevy - [@joshsevy](https://twitter.com/joshsevy) - joshuasevy@outlook.com
+Joshua Sevy -  joshuasevy@outlook.com
 
 Project Link: [https://github.com/JoshSevy/web-framework-ts](https://github.com/JoshSevy/web-framework-ts)
 
 
-[![GitHub followers](https://img.shields.io/github/followers/JoshSevy?label=Follow&style=social)](https://github.com/JoshSevy/?tab=follow)
+❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/JoshSevy?label=Follow&style=social)](https://github.com/JoshSevy/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@joshsevy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JoshSevy)](https://twitter.com/JoshSevy)
 
 
 <!-- ACKNOWLEDGEMENTS -->
