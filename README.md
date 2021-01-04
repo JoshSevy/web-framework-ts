@@ -102,15 +102,39 @@ Here's a blank template to get started:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+Once Prerequisites and Installation is complete you can launch the JSON Database and web server running both these commands in separate terminal windows.
+
+In first terminal window run parcel/web server:
+
+```sh
+npm run start:parcel
+```
+
+In second terminal window run json-server
+
+```sh
+npm run start:db
+```
+
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+To get started with the application a few dependencies need to be installed globally.
+
+If on a mac/linux add `sudo` to beginning of install if receiving an error.
+
+- Parcel TypeScript Compiler
+
+```bash
+npm i -g parcel
+```
+
+- JSON Server
+
+```bash
+npm i -g json-server
+```
+
 
 ### Installation
 
@@ -122,8 +146,6 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
