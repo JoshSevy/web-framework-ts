@@ -13,7 +13,4 @@ export class User {
   public events: Eventing = new Eventing();
   public sync: Sync<UserProps> = new Sync<UserProps>(rootUrl);
 
-
-
-
 }
